@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# virtualenv
+bin/
+lib64
+share/
+pyvenv.cfg
+pip-selfcheck.json
